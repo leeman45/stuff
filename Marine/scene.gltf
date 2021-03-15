@@ -103,10 +103,10 @@
   ],
   "images": [
     {
-      "uri": "https://github.com/leeman45/stuff/raw/main/Marine/textures/material_0_baseColor.png"
+      "uri": "textures/material_0_baseColor.png"
     },
     {
-      "uri": "https://github.com/leeman45/stuff/raw/main/Marine/textures/material_0_metallicRoughness.png"
+      "uri": "textures/material_0_metallicRoughness.png"
     }
   ],
   "materials": [
